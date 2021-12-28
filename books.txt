@@ -1,0 +1,3 @@
+oop	idrees	0	15
+english	idrees	63646341	15
+abc	abc	5474747	35

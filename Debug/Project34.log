@@ -1,0 +1,4 @@
+﻿  Librarian.cpp
+C:\Users\datae\source\repos\Project34\Project34\Librarian.cpp(377,16): warning C4244: 'initializing': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\datae\source\repos\Project34\Project34\Librarian.cpp(382,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project34.vcxproj -> C:\Users\datae\source\repos\Project34\Debug\Project34.exe
